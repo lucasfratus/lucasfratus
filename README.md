@@ -1,6 +1,6 @@
-## Hi there👋
+### **Hi there👋**
 
-Interests:
+**Current interests:**
   - Game Development
   - Programming Languages
   - Systems Programming
