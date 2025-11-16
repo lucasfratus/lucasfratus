@@ -1,4 +1,4 @@
-### **Hi there👋**
+### **hi!**
 
 **Current interests:**
   - Cybersecurity
