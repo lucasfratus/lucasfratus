@@ -2,5 +2,5 @@
 
 **Current interests:**
   - Cybersecurity
+  - Computer Networks
   - Game Development
-  - Programming Languages
